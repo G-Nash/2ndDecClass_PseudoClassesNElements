@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.subHeading{
+    text-decoration: underline;
+}
