@@ -23,3 +23,7 @@ body{
 .subHeading{
     text-decoration: underline;
 }
+
+li::marker{
+    color: aqua;
+}
