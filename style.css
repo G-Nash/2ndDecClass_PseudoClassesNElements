@@ -24,6 +24,10 @@ body{
     text-decoration: underline;
 }
 
-li::marker{
+ol > li::marker{
     color: aqua;
+}
+
+ul > li::marker{
+    color: red;
 }
