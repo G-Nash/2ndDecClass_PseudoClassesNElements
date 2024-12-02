@@ -4,6 +4,17 @@ body{
     text-align: justify;
 }
 
+.page{
+    border: solid black;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    border-radius: 10px;
+    box-shadow: 0 0 10px white;
+    padding: 10px;
+}
+
 .heading{
     text-align: center;
     text-decoration: underline;
