@@ -3,3 +3,11 @@ body{
     color: white;
     text-align: justify;
 }
+
+h4:nth-child(2n){
+    color: lightgreen;
+}
+
+h4:nth-child(2n-1){
+    color: lightskyblue;
+}
